@@ -1,5 +1,4 @@
-# Bloons Tower Defense 5
-Bloons Tower Defense 5 is a flash/HTML5 game made by NinjaKiwi. This was made possible by Ruffle, a Flash emulator made for emulating games that were made in Flash.
+# Any SWF file 
 
 # How To Setup
 In your console/Shell, type "git clone https://github.com/oHeckGage/bloonstd5" (no quotes) and then wait for the clone to happen. Then, deploy it to whatever host you use such as Heroku or Railway or a separate VPS.
